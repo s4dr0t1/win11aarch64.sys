@@ -1,0 +1,8 @@
+﻿  Building 'rot1ver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  r0t1.cpp
+  rot1ver.vcxproj -> D:\rot1ver\x64\Debug\rot1ver.sys
+  Done Adding Additional Store
+  Successfully signed: D:\rot1ver\x64\Debug\rot1ver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
