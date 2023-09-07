@@ -18,7 +18,7 @@ DriverEntry(
 
 	DriverObject->DriverUnload = SampleUnload;
 
-	KdPrint(("My name is Sachin Kumar"));
+	KdPrint(("My name is Rohitr"));
 
 
 	return STATUS_SUCCESS;
